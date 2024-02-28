@@ -124,6 +124,32 @@ main h2 {
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
+/* uslugi */
+.services-list {
+	margin: 0 auto;
+	width: 200px;
+	/* background-color: red; */
+}
+
+/* cennik */
+.price-list-table {
+	margin: 0 auto;
+}
+
+.price-list-table td {
+	padding: 10px 30px;
+}
+
+/* kontakt */
+.p-contact {
+	text-align: center;
+	font-size: 36px;
+}
+
+.p-contact i {
+	margin-right: 10px;
+}
+
 /* footer */
 footer {
 	height: 80px;
